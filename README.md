@@ -1,1 +1,1 @@
-# shit-land
+# shit-lang
